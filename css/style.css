@@ -257,12 +257,10 @@ body {
 .features-box-item {
   width: 300px;
   height: 228px;
-  
-  
 }
 
 .feature-one {
-  background-image: url("/img/house.svg"), url("img/Ellipse-1.svg");
+  background-image: url("../img/house.svg"), url("../img/Ellipse-1.svg");
   background-repeat: no-repeat, no-repeat;
   background-size: 45px 45px, 88px 88px;
   background-position: 117px 20px, 94px 6px;
@@ -270,7 +268,7 @@ body {
 
 .feature-two {
   margin-left: 90px;
-  background-image: url("img/bike.svg"), url("img/Ellipse-2.svg");
+  background-image: url("../img/bike.svg"), url("../img/Ellipse-2.svg");
   background-repeat: no-repeat, no-repeat;
   background-size: 43px 43px, 88px 88px;
   background-position: 120px 20px, 94px 6px;
@@ -279,7 +277,7 @@ body {
 .feature-three {
   margin-left: 90px;
   margin-top: 15px;
-  background-image: url("img/smile.svg"), url("img/Ellipse-3.svg");
+  background-image: url("../img/smile.svg"), url("../img/Ellipse-3.svg");
   background-repeat: no-repeat, no-repeat;
   background-size: 52px 52px, 88px 88px;
   background-position: 113px 25px, 94px 6px;
@@ -493,39 +491,39 @@ body {
 
 .dish-one {
   margin-right: 30px;
-  background-image: url("img/kura.png");
+  background-image: url("../img/kura.png");
   background-position: top center;
   background-repeat: no-repeat;  
 
 }
 .dish-two {
   margin-right: 30px;
-  background-image: url("img/chick.png");
+  background-image: url("../img/chick.png");
   background-position: top center;
   background-repeat: no-repeat;  
 }
 .dish-three {
-  background-image: url("img/burger.png");
+  background-image: url("../img/burger.png");
   background-position: top center;
   background-repeat: no-repeat;    
 }
 .dish-four {
   margin-top: 30px;
   margin-right: 30px;
-  background-image: url("img/vegetables.png");
+  background-image: url("../img/vegetables.png");
   background-position: top center;
   background-repeat: no-repeat;  
 }
 .dish-five {
   margin-top: 30px;
   margin-right: 30px;
-  background-image: url("img/eggs.png");
+  background-image: url("../img/eggs.png");
   background-position: top center;
   background-repeat: no-repeat;  
 }
 .dish-six {
   margin-top: 30px;
-  background-image: url("img/chick_veget.png");
+  background-image: url("../img/chick_veget.png");
   background-position: top center;
   background-repeat: no-repeat;  
 }
@@ -609,7 +607,7 @@ body {
   padding-bottom: 15px;
   padding-right: 30px;
   background: #150C01;
-  background-image: url("img/apple_logo.svg");
+  background-image: url("../img/apple_logo.svg");
   background-position: 30px center;
   background-repeat: no-repeat;
   background-size: 26px;
@@ -623,7 +621,7 @@ body {
   margin-left: 30px;
   border: 1.5px solid rgba(0, 0, 0, 0.1);
   background-color: #FBF1E7;
-  background-image: url("img/google_play.svg");
+  background-image: url("../img/google_play.svg");
   background-position: 30px center;
   background-repeat: no-repeat;
   background-size: 26px;
@@ -679,7 +677,7 @@ body {
   padding-top: 148px;
   margin-left: 139px;
   margin-right: 147px;
-  background-image: url("img/opinion.png");
+  background-image: url("../img/opinion.png");
   background-repeat: no-repeat;
   background-size: 139px;
   background-position: 183.5px 20px;
@@ -736,7 +734,7 @@ body {
   padding-top: 32px;
   padding-bottom: 32px;
   background: #FFFFFF;
-  background-image: url("img/button.png");
+  background-image: url("../img/button.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right center;
